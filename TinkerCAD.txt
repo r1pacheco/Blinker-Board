@@ -1,0 +1,11 @@
+Iterations and steps using the 555-timer and flip-flop IC's to make various counters.
+
+Ring Counter with D-FF: https://www.tinkercad.com/things/ikfba2Lgyaz
+
+555 Timer in Astable mode: https://www.tinkercad.com/things/g3XGQaJdGRO
+
+Full Blinker Board Schematic: https://www.tinkercad.com/things/iJk37zN0PSo
+
+
+
+Ryan Pacheco -- January, 2020.
